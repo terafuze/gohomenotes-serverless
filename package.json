@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amitrke/gohomenotes-serverless.git"
+    "url": "git+https://github.com/terafuze/gohomenotes-serverless.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/amitrke/gohomenotes-serverless/issues"
+    "url": "https://github.com/terafuze/gohomenotes-serverless/issues"
   },
-  "homepage": "https://github.com/amitrke/gohomenotes-serverless#readme",
+  "homepage": "https://github.com/terafuze/gohomenotes-serverless#readme",
   "dependencies": {
     "serverless": "^1.65.0"
   }
