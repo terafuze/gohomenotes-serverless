@@ -1,0 +1,23 @@
+{
+  "name": "gohomenotes-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "serverless deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terafuze/gohomenotes-serverless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terafuze/gohomenotes-serverless/issues"
+  },
+  "homepage": "https://github.com/terafuze/gohomenotes-serverless#readme",
+  "dependencies": {
+    "serverless": "^1.65.0"
+  }
+}
